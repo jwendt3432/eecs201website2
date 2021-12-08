@@ -1,0 +1,2 @@
+# About Me
+My name is Joseph Wendt and I am a junior at the University of Michigan studying electrical engineering. I am set to graduate in 2023 and am from Houston, TX. I love hiking, traveling, and just getting outside, and am involved with the Michigan Club Swim Team and Michigan Solar Car Team. Looking forward, I hope to live somewhere with warm weather for my full time job. I’d like to work in industry in a role that would give me exposure to many different projects and topics, such as consulting or systems engineering on electrical hardware projects.
